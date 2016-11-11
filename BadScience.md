@@ -13,11 +13,13 @@ As introduction Ben Goldacre tells us the main objective of the book, showing us
 Chapter 1 - Matter
 ------------------
 
-In the first chapter the author brings the purification rituais, for example, some of the detox treatments, he talks about three of them: detox aqua, ear candles and 'hassle barrier'.
+In the first chapter the author brings the purification rituals, for example, some of the detox treatments, he talks about three of them: detox aqua, ear candles and 'hassle barrier'.
 
-1.  You have to **question the results**. Just because in the first experiment the water turn brown does not mean it worked. What is in the water?
+Some key points:
 
-2.  To have more realistic results you need to have something to **compare**, so it is needed the same experiment twice, with diferent conditions, where one will have the condition experiment and the second as the "controller" or "main model" one.
+1.  You have to **question the results**. Just because in the first experiment the water turned brown does not mean it worked. What is in the water?
+
+2.  To have more realistic results you need to have something to **compare**, so it is needed the same experiment twice, with different conditions, where one will have the condition experiment and the second as the "controller" or "main model" one.
 
 3.  It is important to follow the results when you can not see nothing in the short space of time (like the ear candle experiment).
 
@@ -26,3 +28,35 @@ In the first chapter the author brings the purification rituais, for example, so
 -   The experiment's **objective**;
 -   The **methods** used;
 -   **Do not consider** only the results.
+
+Chapter 2 - Brain Gym
+---------------------
+
+Brain gym is a project implemented on British schools, where children have to do some complicated exercises to improve their brain learning. Some of the arguments used are:
+
+> "this helps transporting more oxygen to the brain"
+
+> "this stimulates the flow of oxygen carrying blood through the carotid arteries to the brain to awaken it and increase concentration and relaxation"
+
+Some key points:
+
+1.  Having some **technical words** in the explanation **does not mean** it is right nor **science-based**
+
+2.  When someone is being taught, should **question and challenge** the teacher.
+
+3.  You have to be careful with the **"hocus pocus"** effect who usually leads people to do fairly sensitive things, to not get tricked by it.
+
+Chapter 3 - The Progenium XY Complex
+------------------------------------
+
+Ben Goldacre begins the chapter talking about cosmetics, specifically moisturizing creams to hydrate your skin. A few years ago Vaseline was the most indicated cream for this purpose, was cheap and you could easily do it yourself at home. Today, if we go to our local pharmacy we have a diversity of them and why are they more powerful but different from Vaseline? The author tell us that to accomplish their purpose they have more and stronger chemicals and, even if the results are good what most of people does not seem to know is those high amount of chemicals can cause irritation, stinging, burning and redness.
+
+Some key points:
+
+1.  Most of the creams does not have all its **components** on the label since most of them keep the **are usually based on privately funded and published studies and are not available in their full format**.
+
+2.  The typical "seven out of ten people who received free pots of cream were very pleased with the results." does not say it had good results.
+
+3.  Most of the arguments used are to make money and sell the idea **science is incomprehensible when it is not**.
+
+4.  A relationship between **evidence and theory** is needed to do good science.
