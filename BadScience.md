@@ -25,8 +25,8 @@ Some key points:
 
 4.  You have to keep in mind:
 
--   The experiment's **objective**;
--   The **methods** used;
+-   The experiment's **objective**
+-   The **methods** used
 -   **Do not consider** only the results.
 
 Chapter 2 - Brain Gym
@@ -59,4 +59,26 @@ Some key points:
 
 3.  Most of the arguments used are to make money and sell the idea **science is incomprehensible when it is not**.
 
-4.  A relationship between **evidence and theory** is needed to do good science.
+4.  A relationship between **evidence and theory** are needed to do good science.
+
+Chapter 4 - Homeopathy
+----------------------
+
+In this chapter Ben Goldacre questions the veracity of Homeopathy, the misunderstanding between Homeopathic treatments and placebo effect and how to (not) do a fair trial with random pacients.
+
+> "So we should measure that; and here is the final superb lesson in evidence-based medicine that homeopathy can teach us: sometimes you need to be imaginative about what kinds of research you do,compromise, and be driven by the questions that need answering, rather than the tools available to you."
+
+Some key points:
+
+1.  People think homeopathic treatments result but are just being influencied by the **placebo effect**.
+
+2.  We **can not reason from one** individual’s **experience**.
+
+3.  the **randomisation** in choosing people **for trials are important**.
+
+4.  it’s not really money that’s missing, it’s **knowledge of evidence-based medicine**, and expertise in how to do a trial.
+
+5.  **The power of the mind over the body is huge.**
+
+Chapter 5 - The Placebo Effect
+------------------------------
